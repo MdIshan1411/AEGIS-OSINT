@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+alembic
+pydantic
+pydantic-settings
+celery
+redis
+slack_sdk
+slack_bolt
+PyGithub
+anthropic
+python-dotenv
+httpx
+bandit
+semgrep
